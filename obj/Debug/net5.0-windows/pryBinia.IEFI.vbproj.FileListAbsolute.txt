@@ -1,0 +1,42 @@
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.vbproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmInicio.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.vbproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.AssemblyInfo.vb
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.vbproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.exe
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.deps.json
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.runtimeconfig.json
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.runtimeconfig.dev.json
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\ref\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.pdb
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\ref\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.pdb
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.genruntimeconfig.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmListados.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmRegistroProductos.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmVentas.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.exe
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.deps.json
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.runtimeconfig.json
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.runtimeconfig.dev.json
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\ref\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\bin\Debug\net5.0-windows\pryBinia.IEFI.pdb
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.vbproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmInicio.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmListados.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmRegistroProductos.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.frmVentas.resources
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.vbproj.GenerateResource.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.AssemblyInfo.vb
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.vbproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\ref\pryBinia.IEFI.dll
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.pdb
+C:\Users\feder\OneDrive\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\1º SEMESTRE\Laboratorio de programacion I\pryBinia.IEFI\obj\Debug\net5.0-windows\pryBinia.IEFI.genruntimeconfig.cache

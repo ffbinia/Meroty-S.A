@@ -19,7 +19,7 @@
     Private Sub btnCargarProducto_Click(sender As Object, e As EventArgs) Handles btnCargarProducto.Click
 
         If mtbIDProducto.Text = "" Or txtNombre.Text = "" Or nupCantidadRegsitro.Value = 0 Then
-            MessageBox.Show("Todos los campos deben estar completos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            MessageBox.Show("Campos incompletos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
 
         ElseIf varFilaStock <= 4 Then
             Stock(varFilaStock, 0) = mtbIDProducto.Text
